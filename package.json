@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Online Judge Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayed-amin/Online-Judge.git"
+  },
+  "keywords": [
+    "online",
+    "judge"
+  ],
+  "author": "sayed amin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayed-amin/Online-Judge/issues"
+  },
+  "homepage": "https://github.com/sayed-amin/Online-Judge#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.1"
+  }
+}
